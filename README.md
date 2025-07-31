@@ -37,7 +37,7 @@ To run Abyssia locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kelly7y176/2D-game.git
+   git clone https://github.com/kelly7y176/abyssia.git
 Open the project in Unity (version 2021.3+).
 Ensure you have the Universal Render Pipeline package installed.
 Press Play in the Unity Editor to start the game.
