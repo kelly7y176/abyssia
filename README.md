@@ -4,12 +4,18 @@
 
 Abyssia is a captivating 2D underwater adventure game created using Unity with the Universal Render Pipeline (URP). In this game, players take control of Dawn, a curious ghost navigating a mesmerizing deep-sea world filled with luminous treasures and shadowy obstacles. This README serves as a guide to understanding the game, its features, and how to get involved.
 
+
+## Video Preview
+Check out the game asset design in this video:
+
+[Watch the Game Asset Design Video](https://vimeo.com/1106214123)
+
 <!-- Cover -->
 <br />
 <div>
-   Preview:
-   <img align="left" align="left" alt="HTML" width="100%" style="padding-right:10px;" src="https://i.ibb.co/dsS3CX2R/cover-Screen-Background.png" />
+   <img align="left" align="left" alt="HTML" width="100%" style="padding-right:10px;" src="https://i.ibb.co/dsS3CX2R/cover-Screen-Background.png" />   
 </div>
+
 
 ## Table of Contents
 
